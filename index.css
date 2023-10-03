@@ -1,0 +1,76 @@
+body{
+    background-color: whitesmoke;
+}
+.col{
+    margin-left: 6px;
+    /* height: 350px; */
+    width: 16%;
+    /* border: black 2px solid; */
+    background-color:whitesmoke;
+    float: left;
+    text-align: center;
+}
+img{
+    margin-left: 04%;
+    margin-top: 25px;
+    width: 50%;
+    height: 150px;
+    padding: 0%;
+    border-radius: 15px;
+    box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.2), 0 10px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+h1{
+    height: 70px;
+    text-align: center;
+    /* background-image: url(./bookimages/istockphoto-1022838252-612x612.jpg); */
+    /* color: blue; */
+}
+#d2{
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: blue;
+    background-image: url(./bookimages/istockphoto-1022838252-612x612.jpg);
+    background-blend-mode: luminosity;
+    /* background-image: url(./Images/WhatsApp\ Image\ 2023-09-22\ at\ 14.21.47.jpg); */
+    /* background-size: cover; */
+    /* background-repeat: no-repeat; */
+}
+button{
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+    font-family: 'Croissant One', cursive;
+    width: 100%;
+    height: 69px;
+    background-color: rgba(0, 0, 0, 0.704);
+}
+/* #d1{
+    color: brown;
+    text-align: center;
+} */
+p{
+    margin-top: 08px;
+    font-size: medium;
+    text-align: center;
+    color: black;
+}
+#q1{
+    font-style: italic;
+    margin-top: -40px;
+    text-align: justify;
+    padding: 30px;
+    font-size: x-small;
+    color: blueviolet;
+}
+img:hover{
+    /* background-color: rgb(118, 36, 36); */
+    color: blue;
+}
+p:hover{
+    /* background-color: brown; */
+    color: blue;
+}
+/* col:hover{
+    color: rgb(129, 124, 118);
+} */
